@@ -1,8 +1,8 @@
-## Привет всем, меня зовут Илья Ткачук 👋
+## Hi there, I'm Ilya Tkachuk 👋
 
-🔭 Я активно ищу работу в Data Science / Data Analysis.
+🔭 I'm looking for a job in Data Science / Data Analysis.
 
-### Набор инструментов:
+### Tools:
 Python 3, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Statsmodels, CatBoost, LigthGBM, SpaCy, NLTK, SciPy, PostgreSQL.
 
 <!--
