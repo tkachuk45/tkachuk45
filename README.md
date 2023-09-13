@@ -1,6 +1,9 @@
 ## Hi there, I'm Ilya Tkachuk 👋
+### I'm Data Scientist from Ekaterinburg 
 
-🔭 I'm looking for a job in Data Science / Data Analysis.
+- 🔭 I'm looking for a job in Data Science / Data Analysis.
+- 📄 Read about my experience: [CV](https://hh.ru/resume/924365b7ff0c2e6e030039ed1f356a58744b4f)
+- 📫 Reach me: [email](mailto:tkachuk45@gmail.com), [Telegram](https://t.me/ilyatkachuk).
 
 ### Tools:
 Python 3, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Statsmodels, CatBoost, LigthGBM, SpaCy, NLTK, SciPy, PostgreSQL.
