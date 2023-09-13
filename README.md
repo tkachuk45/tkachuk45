@@ -1,4 +1,9 @@
-### Hi there 👋
+## Привет всем, меня зовут Илья Ткачук 👋
+
+🔭 Я активно ищу работу в Data Science / Data Analysis.
+
+### Набор инструментов:
+Python 3, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Statsmodels, CatBoost, LigthGBM, SpaCy, NLTK, SciPy, PostgreSQL.
 
 <!--
 **tkachuk45/tkachuk45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
